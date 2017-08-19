@@ -1,0 +1,1 @@
+Football player speed=22  accuracy=90%  Rich JuniorBasketball player JuniorFootball player speed=22  accuracy=90%  Rich JuniorBasketball player
