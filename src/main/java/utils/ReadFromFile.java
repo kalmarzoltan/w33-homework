@@ -9,7 +9,7 @@ import java.util.List;
 public class ReadFromFile {
 
 	public static List<String> readWithBufferedReader(String fileName) {
-		// csinalok egy listát amibe belepakolom az ertekeket
+
 		ArrayList<String> inputArray = new ArrayList<>();
 		FileReader file;
 		try {

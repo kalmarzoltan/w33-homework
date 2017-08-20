@@ -41,10 +41,19 @@ final static Logger logger = Logger.getLogger(PlayerSkillsRunner.class);
 
 + log.txt
 
-### Items to be recovered in the Future
+### Practice the TeamWork
 
-  + apply the checkstyle.xml
+  + apply the checkstyle.xml<br/>
+  ---
+  <sup>Under Preferences, choose Java --> Editor --> Save Actions. Check the Perform the selected actions on save, and check the Format source code box.</sup>  <br/>
 
+  ---
+  1. git branch applyCheckStyle <br/>
+  2. git checkout applyCheckStyle <br>
+  3. git commit <br>
+  4. git checkout master <br>
+  5. git fakeTeamWork (x3)<br>
+  6. git merge applyCheckStyle <br>
 
 
 ### Let's try adding an image

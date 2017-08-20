@@ -1,0 +1,15 @@
+﻿2017-08-20 10:13:23 INFO  PlayerSkillsRunner:25 - What Player would You like to choose?
+ 
+2017-08-20 10:13:23 INFO  PlayerSkillsRunner:26 - 1: Junior BasketballPlayer 
+2017-08-20 10:13:23 INFO  PlayerSkillsRunner:27 - 2: Junior Rich FootballPlayer 
+2017-08-20 10:13:23 INFO  PlayerSkillsRunner:28 - 3: BasketballPlayer 
+2017-08-20 10:13:23 INFO  PlayerSkillsRunner:29 - 4: Rich BasketballPlayer 
+2017-08-20 10:13:25 INFO  PlayerSkillsRunner:33 - Your choise:1
+2017-08-20 10:13:25 INFO  PlayerSkillsRunner:52 - proxyanddecorator.player.decorator.classes.JuniorDecorator@6e8cf4c6
+2017-08-20 12:55:30 INFO  PlayerSkillsRunner:24 - What Player would You like to choose?
+ 
+2017-08-20 12:55:30 INFO  PlayerSkillsRunner:25 - 1: Junior BasketballPlayer 
+2017-08-20 12:55:30 INFO  PlayerSkillsRunner:26 - 2: Junior Rich FootballPlayer 
+2017-08-20 12:55:30 INFO  PlayerSkillsRunner:27 - 3: BasketballPlayer 
+2017-08-20 12:55:30 INFO  PlayerSkillsRunner:28 - 4: Rich BasketballPlayer 
+2017-08-20 12:55:35 INFO  PlayerSkillsRunner:32 - Your choise:2

@@ -1,7 +1,6 @@
 package utils;
 
 import java.io.FileOutputStream;
-
 import java.io.IOException;
 import java.io.PrintStream;
 
@@ -9,8 +8,8 @@ public class WriteToFile {
 
 	/**
 	 * The java.lang.System.setOut() method reassigns the "standard" output stream.
-	 * Parameters out − This is the standard output stream.
-	 * Return Value - This method does not return any value.
+	 * Parameters out − This is the standard output stream. Return Value - This
+	 * method does not return any value.
 	 */
 	public static void writing() {
 		PrintStream printStream;

@@ -22,6 +22,7 @@ public class PlayerSkillsRunner {
 		logger.setLevel(Level.INFO);
 
 		logger.info("What Player would You like to choose?\n ");
+
 		logger.info("1: Junior BasketballPlayer ");
 		logger.info("2: Junior Rich FootballPlayer ");
 		logger.info("3: BasketballPlayer ");
@@ -48,7 +49,6 @@ public class PlayerSkillsRunner {
 			jFPlayer.writeoutProperties();
 			WriteToFile.writing();
 			jFPlayer.writeoutProperties();
-
 			break;
 		case 2:
 			jBPlayer.writeoutProperties();
