@@ -14,14 +14,12 @@ import utils.ReadFromConsole;
 import utils.WriteToFile;
 
 public class PlayerSkillsRunner {
-	
+
 	final static Logger logger = Logger.getLogger(PlayerSkillsRunner.class);
-	
 
 	public static void main(String[] args) {
-		
+
 		logger.setLevel(Level.INFO);
-		
 
 		logger.info("What Player would You like to choose?\n ");
 		logger.info("1: Junior BasketballPlayer ");
@@ -50,9 +48,7 @@ public class PlayerSkillsRunner {
 			jFPlayer.writeoutProperties();
 			WriteToFile.writing();
 			jFPlayer.writeoutProperties();
-			
-			
-			
+
 			break;
 		case 2:
 			jBPlayer.writeoutProperties();

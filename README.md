@@ -11,10 +11,10 @@
 <kalmarzoltan82@gmail.com><br/>
 
 ### Steps:
-0. learn basics here #1: [decorator factory pattern tutorial](https://www.tutorialspoint.com/design_pattern/decorator_pattern.htm)
-1. learn basics here #2: [Java.lang.System.setOut() Method](https://www.tutorialspoint.com/java/lang/system_setout.htm)
+0. read the tutorial #1: [decorator factory pattern tutorial](https://www.tutorialspoint.com/design_pattern/decorator_pattern.htm)
+1. read the tutorial #2: [Java.lang.System.setOut() Method](https://www.tutorialspoint.com/java/lang/system_setout.htm)
 2. prepare the WriteToFile class
-3. comment the WriteToFile class
+3. make the comment
 ---
 
 ```java
@@ -27,11 +27,18 @@
 ---
 
 
-4. learn basics here #2: [Log4j](http://www.mkyong.com/logging/log4j-hello-world-example/)
+4. read the tutorial #3: [Log4j](http://www.mkyong.com/logging/log4j-hello-world-example/)
+5. create a final static logger and define a name for the logger
+---
+```java
+final static Logger logger = Logger.getLogger(PlayerSkillsRunner.class);
+```
+---
 
 ### Output
 
 + PlayerResult.txt
+
 + log.txt
 
 ### Items to be recovered in the Future
