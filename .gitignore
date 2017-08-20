@@ -2,7 +2,7 @@
 *.war
 *.ear
 *.class
-
+*.xml
 # eclipse specific git ignore
 *.pydevproject
 .project
@@ -18,5 +18,5 @@ local.properties
 .classpath
 .settings/
 .loadpath
-
+target/classes/log4j.properties
 

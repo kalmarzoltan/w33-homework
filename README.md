@@ -4,9 +4,11 @@
 <https://github.com/kalmarzoltan/w33-homework>
 
 ### email:
-<r.szeman1989@gmail.com>
-<kocsispetertamas@gmail.com>
-<kalmarzoltan82@gmail.com>
+<r.szeman1989@gmail.com><br/>
+
+<kocsispetertamas@gmail.com><br/>
+
+<kalmarzoltan82@gmail.com><br/>
 
 ### Steps:
 0. learn basics here #1: [decorator factory pattern tutorial](https://www.tutorialspoint.com/design_pattern/decorator_pattern.htm)
@@ -17,10 +19,10 @@
 
 ```java
 /**
-	 * The java.lang.System.setOut() method reassigns the "standard" output stream.
-	 * Parameters out − This is the standard output stream.
-	 * Return Value This method does not return any value.
-	 */
+* The java.lang.System.setOut() method reassigns the "standard" output stream.
+* Parameters out − This is the standard output stream.
+* Return Value This method does not return any value.
+*/
 ```
 ---
 
