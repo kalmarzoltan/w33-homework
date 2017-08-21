@@ -52,8 +52,7 @@ final static Logger logger = Logger.getLogger(PlayerSkillsRunner.class);
   2. git checkout applyCheckStyle <br>
   3. git commit <br>
   4. git checkout master <br>
-  5. git fakeTeamWork (x3)<br>
-  6. git merge applyCheckStyle <br>
+  5. git merge applyCheckStyle <br>
 
 
 ### Let's try adding an image
